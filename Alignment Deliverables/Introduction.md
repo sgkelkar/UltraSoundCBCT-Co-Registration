@@ -7,7 +7,7 @@ Configure parameters for ultrasound simulation, such as adjusting the transmissi
 ## Real time demonstration output
 The script iterates through a loop to simulate ultrasound images at different time points, which is common practice for tracking changes over time. Each iteration includes preprocessing CBCT images, generating scatterers (representing acoustic properties), simulating ultrasound RF signals, and applying beamforming techniques to produce ultrasound images.
 
-Looped video and rotations to denomstraght the alignment can be viewed in the "Alignment and rotation videos" folder.
+Looped video and rotations to demonstraight the alignment can be viewed in the "Alignment and rotation videos" folder.
 
 ## Refrences
 MATLAB Ultrasound Toolbox (MUST):
