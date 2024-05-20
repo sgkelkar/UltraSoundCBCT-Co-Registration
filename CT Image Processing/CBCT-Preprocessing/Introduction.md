@@ -12,7 +12,7 @@ The SSIM value using default anisotropic diffusion is 0.129.
 The SSIM value using quadratic anisotropic diffusion is 0.968.
 
 
-##Visual Results
+## Visual Results
 This process is performed and demonstrated using _Test_light methods.m_ file. Generated images and figures are linked in “Preprocessing CBCT Images”.
 
 
